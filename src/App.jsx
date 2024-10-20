@@ -14,8 +14,8 @@ function App() {
     <>
       <div>
         {/* <SignIn></SignIn> */}
-        {/* <Recovery/> */}
-        <SignUp/>
+        <Recovery/>
+        {/* <SignUp/> */}
         
 
         
